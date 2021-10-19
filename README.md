@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milica.
 - 👀 I’m interested in QA, in manual and automation testing of software.
-- 🌱 I’m currently learning how to become a better and more eficient QA tester.  
+- 🌱 I’m currently looking for a job opportunity as a QA Engineer.  
 - 📫 You can reach me via email: cemiska89@gmail.com
 
 <!---
